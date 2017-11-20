@@ -1,3 +1,26 @@
+## tf2_web_republisher (kinetic) - 0.3.2-0
+
+The packages in the `tf2_web_republisher` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release tf2_web_republisher --ros-distro kinetic --track kinetic` on `Mon, 20 Nov 2017 16:15:15 -0000`
+
+The `tf2_web_republisher` package was released.
+
+Version of package(s) in repository `tf2_web_republisher`:
+
+- upstream repository: https://github.com/RobotWebTools/tf2_web_republisher.git
+- release repository: https://github.com/RobotWebTools-release/tf2_web_republisher-release.git
+- rosdistro version: `0.3.1-0`
+- old version: `0.3.1-0`
+- new version: `0.3.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.8`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## tf2_web_republisher (kinetic) - 0.3.1-0
 
 The packages in the `tf2_web_republisher` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release tf2_web_republisher --track kinetic --rosdistro kinetic --new-track` on `Wed, 01 Mar 2017 20:34:53 -0000`
